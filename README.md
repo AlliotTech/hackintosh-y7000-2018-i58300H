@@ -1,5 +1,5 @@
 # hackintosh-y7000-2018-i58300H  
-opencore 引导，big sur11.2.1，y7000 2018款 CPU i5-8300H   
+opencore 引导，big sur11.5.2，y7000 2018款 CPU i5-8300H   
 
 基于opencore  0.7.2 版本  
 
